@@ -105,6 +105,8 @@ curl "https://ems-anurag-sh.brevo.dev/employees?firstname=Anurag&role=Software%2
 }
 ```
 
+![READ API ](https://raw.githubusercontent.com/AnuragSH-Code/EMS_CRUD_README/refs/heads/main/images/GET.png)
+
 ### 2. Create Employee
 
 Create a new employee record.
@@ -138,6 +140,7 @@ curl -X POST https://ems-anurag-sh.brevo.dev/employee \
     "manager": "Vivek"
   }'
 ```
+![CREATE API ](https://raw.githubusercontent.com/AnuragSH-Code/EMS_CRUD_README/refs/heads/main/images/CREATE.png)
 
 ### 3. Update Employee
 
@@ -169,6 +172,7 @@ curl -X PUT https://ems-anurag-sh.brevo.dev/employee/{id} \
   "message": "Employee updated successfully"
 }
 ```
+![UPDATE API ](https://raw.githubusercontent.com/AnuragSH-Code/EMS_CRUD_README/refs/heads/main/images/UPDATE.png)
 
 ### 4. Delete Employee
 
@@ -187,6 +191,7 @@ curl -X DELETE https://ems-anurag-sh.brevo.dev/employee/{id}
   "message": "Employee deleted successfully"
 }
 ```
+![DELETE API ](https://raw.githubusercontent.com/AnuragSH-Code/EMS_CRUD_README/refs/heads/main/images/DELETE.png)
 
 ## 📊 Data Models
 
