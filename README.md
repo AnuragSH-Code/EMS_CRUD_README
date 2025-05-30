@@ -12,16 +12,6 @@ A robust Employee Management System API built with Go and MongoDB, deployed on K
 - **High Code Quality** - 83.7% test coverage on new code (SonarQube)
 - **RESTful Design** - Clean and intuitive API endpoints
 
-## 📋 Table of Contents
-
-- [Live Demo](#live-demo)
-- [API Endpoints](#api-endpoints)
-- [API Documentation](#api-documentation)
-- [Data Models](#data-models)
-- [Error Handling](#error-handling)
-- [Testing](#testing)
-- [Deployment](#deployment)
-
 ## 🌐 Live Demo
 
 **Default Live Link:** [https://ems-anurag-sh.brevo.dev/employees](https://ems-anurag-sh.brevo.dev/employees)
